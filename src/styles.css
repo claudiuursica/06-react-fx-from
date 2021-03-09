@@ -1,0 +1,21 @@
+.wrapper {
+  font-family: sans-serif;
+  padding: 5px 20px;
+}
+
+.wrapper fieldset {
+  margin: 20px 0;
+}
+
+label {
+  padding: 10px;
+  display: block;
+}
+
+label span {
+  width: 100px;
+  padding-right: 10px;
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+}
